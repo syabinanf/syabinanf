@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Syabina 👋
+<img src="./assets/profile-banner.svg" width="100%" alt="Hi, I’m Syabina — Build. Automate. Teach." />
 
 ### AI & Automation Practitioner · Technical Trainer
 
@@ -33,7 +33,67 @@ My projects span **AI-powered content workflows, computer vision, mobile attenda
 | 📊 **Data & Web Projects** | Python, SQL, data processing, and interactive dashboards. |
 | 📱 **Mobile & Computer Vision** | Flutter, Kotlin, Jetpack Compose, face recognition, and on-device ML. |
 
-### 🚀 Selected projects
+### 🚀 Project spotlight
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 AI Content Automation
+**From topics to carousel assets.**
+
+n8n workflows for AI scripts, image generation, Google Drive delivery, and processing status updates.
+
+`n8n` `Gemini` `OpenAI` `Google Workspace`
+
+<a href="https://github.com/syabinanf/Automation123"><img src="https://img.shields.io/badge/Explore_workflows-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore AI Content Automation" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🗺️ Hub Dwell Monitor
+**Turn logistics data into a clear view.**
+
+A training dashboard with simulated hub data, dwell-time KPIs, search, filters, and interactive maps.
+
+`React` `Vite` `Leaflet` `Papa Parse`
+
+<a href="https://github.com/syabinanf/supervisor-hub-monitor"><img src="https://img.shields.io/badge/Explore_dashboard-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore Hub Dwell Monitor" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📱 Mobile Attendance
+**Camera, recognition, and location.**
+
+Flutter attendance modules with MobileFaceNet and a companion Laravel backend.
+
+`Flutter` `Dart` `TensorFlow Lite` `Laravel`
+
+<a href="https://github.com/syabinanf/presensi-flutter"><img src="https://img.shields.io/badge/Explore_mobile_app-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore Mobile Attendance" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧠 Computer Vision
+**Explore ML beyond the notebook.**
+
+Python face-attendance experiments and Android skin-image ML with bundled TensorFlow Lite models.
+
+`Python` `OpenCV` `Kotlin` `Jetpack Compose`
+
+<a href="https://github.com/syabinanf/Skin-Cancer"><img src="https://img.shields.io/badge/Explore_Android_ML-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Explore Android ML project" /></a>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📂 Browse the project collection</b></summary>
+
+
 
 | Project | What you'll find | Stack |
 | :--- | :--- | :--- |
@@ -44,7 +104,9 @@ My projects span **AI-powered content workflows, computer vision, mobile attenda
 | **[Face Attendance](https://github.com/syabinanf/absensi-wajah)** | A webcam-based face-recognition prototype that records attendance timestamps to CSV. | Python · OpenCV · face_recognition |
 | **[Skin-Cancer](https://github.com/syabinanf/Skin-Cancer)** | An Android project exploring skin-image ML with bundled TensorFlow Lite models and a Compose interface. | Kotlin · Jetpack Compose · TensorFlow Lite |
 
-### 🛠️ Tools I work with
+</details>
+
+### 🛠️ My toolkit
 
 **Code & Data**
 
@@ -88,6 +150,9 @@ My projects span **AI-powered content workflows, computer vision, mobile attenda
 
 **I enjoy turning technical concepts into useful tools and clear learning experiences.**
 
-<sub>Build with purpose · Automate with care · Teach with clarity</sub>
+<br />
+<img src="https://img.shields.io/badge/BUILD_WITH_PURPOSE-21133E?style=for-the-badge" alt="Build with purpose" />
+<img src="https://img.shields.io/badge/AUTOMATE_WITH_CARE-38205B?style=for-the-badge" alt="Automate with care" />
+<img src="https://img.shields.io/badge/TEACH_WITH_CLARITY-164E63?style=for-the-badge" alt="Teach with clarity" />
 
 </div>
