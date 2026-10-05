@@ -1,17 +1,16 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Hi, I’m Syabina — Build. Automate. Teach." />
+<img src="./assets/profile-banner.svg" width="100%" alt="Hi, I’m Syabina — Build. Automate. Create." />
 
-### AI & Automation Practitioner · Technical Trainer
+### AI & Automation Practitioner
 
 **From AI workflows to mobile apps — built to solve practical problems.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+%26+Workflow+Automation;Mobile+Apps+%26+Computer+Vision;Data+Dashboards+%26+Technical+Training" alt="Building practical AI workflows, useful automation, and clear learning experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+%26+Workflow+Automation;Mobile+Apps+%26+Computer+Vision;Data+Dashboards+%26+Web+Development" alt="Building practical AI workflows, useful automation, and data dashboards" />
 
 <br />
 
 <img src="https://img.shields.io/badge/AI_%26_Automation-7C3AED?style=for-the-badge" alt="AI and Automation" />
-<img src="https://img.shields.io/badge/Technical_Training-2563EB?style=for-the-badge" alt="Technical Training" />
 <img src="https://img.shields.io/badge/Data_%26_Web-0891B2?style=for-the-badge" alt="Data and Web" />
 
 </div>
@@ -20,16 +19,15 @@
 
 ### ✨ About me
 
-I build practical AI workflows and develop hands-on training materials that help people apply technology to everyday work.
+I build practical AI workflows, mobile apps, and data dashboards that help people apply technology to everyday work.
 
-My projects span **AI-powered content workflows, computer vision, mobile attendance apps, and logistics dashboards**. I combine building with teaching: turning technical concepts into tools people can use and lessons they can follow.
+My projects span **AI-powered content workflows, computer vision, mobile attendance apps, and logistics dashboards**. I enjoy turning technical concepts into useful tools and intuitive applications.
 
 ### 🎯 My focus
 
 | Area | What I work on |
 | :--- | :--- |
 | 🤖 **AI & Automation** | AI agents, n8n, Make, and knowledge-based assistants. |
-| 🎓 **Technical Training** | AI literacy, prompt engineering, programming, and workflow automation. |
 | 📊 **Data & Web Projects** | Python, SQL, data processing, and interactive dashboards. |
 | 📱 **Mobile & Computer Vision** | Flutter, Kotlin, Jetpack Compose, face recognition, and on-device ML. |
 
@@ -148,11 +146,11 @@ Python face-attendance experiments and Android skin-image ML with bundled Tensor
 
 <div align="center">
 
-**I enjoy turning technical concepts into useful tools and clear learning experiences.**
+**I enjoy turning technical concepts into useful tools and intuitive applications.**
 
 <br />
 <img src="https://img.shields.io/badge/BUILD_WITH_PURPOSE-21133E?style=for-the-badge" alt="Build with purpose" />
 <img src="https://img.shields.io/badge/AUTOMATE_WITH_CARE-38205B?style=for-the-badge" alt="Automate with care" />
-<img src="https://img.shields.io/badge/TEACH_WITH_CLARITY-164E63?style=for-the-badge" alt="Teach with clarity" />
+<img src="https://img.shields.io/badge/CREATE_WITH_PURPOSE-164E63?style=for-the-badge" alt="Create with purpose" />
 
 </div>
