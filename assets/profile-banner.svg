@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Syabina — Build. Automate. Teach.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#100b24"/><stop offset="1" stop-color="#21133e"/></linearGradient><linearGradient id="accent"><stop stop-color="#c084fc"/><stop offset="1" stop-color="#67e8f9"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a78bfa" stroke-opacity=".08"/></pattern></defs>
+<rect width="1200" height="340" rx="24" fill="url(#bg)"/><rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+<circle cx="1040" cy="70" r="170" fill="#a855f7" opacity=".08"/><circle cx="1150" cy="290" r="190" fill="#22d3ee" opacity=".06"/>
+<rect x="55" y="45" width="220" height="28" rx="14" fill="#a78bfa" opacity=".13"/><text x="72" y="64" fill="#c4b5fd" font-family="monospace" font-size="13" letter-spacing="2">SYABINANF / GITHUB</text>
+
+<text x="55" y="154" fill="#faf5ff" font-family="Arial,sans-serif" font-weight="700" font-size="72">Hi, I'm Syabina.</text>
+<text x="59" y="203" fill="url(#accent)" font-family="Arial,sans-serif" font-weight="600" font-size="27">Build. Automate. Teach.</text>
+<text x="59" y="249" fill="#b9b3cf" font-family="Arial,sans-serif" font-size="18">AI &amp; Automation Practitioner · Technical Trainer</text>
+<path d="M59 285H540" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+<g transform="translate(845 100)" fill="none" stroke="url(#accent)" stroke-width="3"><rect width="280" height="165" rx="16" fill="#100b24"/><path d="M0 37H280"/><circle cx="20" cy="19" r="3"/><circle cx="34" cy="19" r="3"/><circle cx="48" cy="19" r="3"/><path d="m65 75-22 22 22 22m150-44 22 22-22 22m-63-52-25 65"/></g>
+</svg>
